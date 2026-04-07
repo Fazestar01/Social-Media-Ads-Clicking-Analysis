@@ -1,8 +1,10 @@
-# Project XYZ
+# Social Media Ads Clicking Analysis 
 
-**Project XYZ** is a comprehensive data analysis tool designed to streamline data exploration, analysis, and visualisation. The tool supports multiple data formats and provides an intuitive interface for both novice and expert data scientists.
+**Social Media Ads clicking Analysis** is a group data project looking at the impact of various factors on user engagement with online advertisments. 
 
-# ![CI logo](https://codeinstitute.s3.amazonaws.com/fullstack/ci_logo_small.png)
+Navigation: 
+* [Data Cleaning](https://github.com/Fazestar01/Social-Media-Ads-Clicking-Analysis/blob/main/jupyter_notebooks/datacleaning.ipynb)
+* [Python EDA Visualisations](https://github.com/Fazestar01/Social-Media-Ads-Clicking-Analysis/blob/main/jupyter_notebooks/eda_visualisations.ipynb)
 
 
 ## Dataset Content
