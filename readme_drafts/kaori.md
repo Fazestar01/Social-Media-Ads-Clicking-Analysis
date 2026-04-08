@@ -1,8 +1,6 @@
-# Project XYZ
+# Project
 
-**Project XYZ** is a comprehensive data analysis tool designed to streamline data exploration, analysis, and visualisation. The tool supports multiple data formats and provides an intuitive interface for both novice and expert data scientists.
-
-# ![CI logo](https://codeinstitute.s3.amazonaws.com/fullstack/ci_logo_small.png)
+This project is a behavioral marketing analytics tool that evaluates how demographic, activity, and social-status metrics influence advertisement engagement on social media platforms. The goal of this project is to provide insights for digital marketing strategy team. By analysing user behaviour and demographic trends, this tool identifies which user segments are most responsive to advertisements, enabling more precise ad spend allocation and improved campaign ROI.
 
 
 ## Dataset Content
@@ -10,8 +8,7 @@
 
 
 ## Business Requirements
-* Describe your business requirements
-
+The primary business requirement for this project is to develop a predictive framework for optimising digital advertisement performance. By identifying the key drivers of engagement, the project aims to help marketing stakeholders transition from broad-spectrum advertising to targeted, high-intent user acquisition.
 
 ## Hypothesis and how to validate?
 * List here your project hypothesis(es) and how you envision validating it (them) 
