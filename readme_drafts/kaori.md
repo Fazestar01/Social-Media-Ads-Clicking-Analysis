@@ -4,7 +4,8 @@ This project is a behavioral marketing analytics tool that evaluates how demogra
 
 
 ## Dataset Content
-* Describe your dataset. Choose a dataset of reasonable size to avoid exceeding the repository's 100GB limit.
+
+This project uses the dataset: [Social Media User Analysis](https://www.kaggle.com/datasets/rockyt07/social-media-user-analysis) from Kaggle, which contains information about social media user's behaviour and engagement patterns. Due to Github's file limitation, a random sample of 200 rows was used for this project.
 
 
 ## Business Requirements
