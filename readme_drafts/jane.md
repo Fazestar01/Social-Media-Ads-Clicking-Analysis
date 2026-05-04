@@ -1,21 +1,26 @@
 ![alt text](../images/socialmedianalysis.jpg)
 
-**Social Media Ads clicking Analysis** is a group data project looking at the impact of various factors on user engagement with online advertisments. 
-
 Navigation: 
 * [Data Cleaning](https://github.com/Fazestar01/Social-Media-Ads-Clicking-Analysis/blob/main/jupyter_notebooks/datacleaning.ipynb)
 * [Python EDA Visualisations](https://github.com/Fazestar01/Social-Media-Ads-Clicking-Analysis/blob/main/jupyter_notebooks/eda_visualisations.ipynb)
+* [Dataset](https://github.com/Fazestar01/Social-Media-Ads-Clicking-Analysis/blob/main/data/cleaned_data.csv)
+
+## **Social Media Ads clicking Analysis** 
+This project is a behavioral marketing analysis that evaluates how demographic, activity, and social-status metrics influence advertisement engagement on social media platforms. The goal of this project is to provide insights for digital marketing strategy team. By analysing user behaviour and demographic trends, this tool identifies which user segments are most responsive to advertisements, enabling more precise ad spend allocation and improved campaign ROI.
 
 
 ## Dataset Content
 * We used a synthetic dataset from [Kaggle](https://www.kaggle.com/datasets/rockyt07/social-media-user-analysis?resource=download) this is a large dataset with 58 columns including 
 
 ## Business Requirements
-* Describe your business requirements
+* This is a project analysing what what demographics are most likely to click on social media advertisements. 
 
 
 ## Hypothesis and how to validate?
-* List here your project hypothesis(es) and how you envision validating it (them) 
+#### Hypothesis 1:  Age group vs Click Through Rate
+We grouped age groups into bins of 18-25, 26-35, 36-50 and 50+.
+
+
 
 ## Project Plan
 * Outline the high-level steps taken for the analysis.
@@ -42,10 +47,7 @@ Navigation:
 * How were data insights communicated to technical and non-technical audiences?
 * Explain how the dashboard was designed to communicate complex data insights to different audiences. 
 
-## Unfixed Bugs
-* Please list any unfixed bugs and explain why they were not fixed. This section should include shortcomings of the frameworks or technologies used. Although time can be a significant variable to consider, paucity of time and difficulty understanding implementation are not valid reasons to leave bugs unfixed.
-* Did you recognise gaps in your knowledge, and how did you address them?
-* If applicable, include evidence of feedback received (from peers or instructors) and how it improved your approach or understanding.
+
 
 ## Development Roadmap
 * What challenges did you face, and what strategies were used to overcome these challenges?
