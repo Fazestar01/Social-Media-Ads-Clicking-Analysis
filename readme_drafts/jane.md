@@ -1,4 +1,4 @@
-# Social Media Ads Clicking Analysis 
+![alt text](../images/socialmedianalysis.jpg)
 
 **Social Media Ads clicking Analysis** is a group data project looking at the impact of various factors on user engagement with online advertisments. 
 
@@ -8,8 +8,7 @@ Navigation:
 
 
 ## Dataset Content
-* Describe your dataset. Choose a dataset of reasonable size to avoid exceeding the repository's 100GB limit.
-
+* We used a synthetic dataset from [Kaggle](https://www.kaggle.com/datasets/rockyt07/social-media-user-analysis?resource=download) this is a large dataset with 58 columns including 
 
 ## Business Requirements
 * Describe your business requirements
@@ -92,3 +91,5 @@ Navigation:
 
 ## Acknowledgements (optional)
 * Thank the people who supported this project.
+
+[def]: ../images/socialmedianalysis.jpg
